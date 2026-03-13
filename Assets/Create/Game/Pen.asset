@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd424cae091962641bf928bb179653a6, type: 3}
+  m_Name: Pen
+  m_EditorClassIdentifier: 
+  itemType: 0
+  displayName: Pen
+  icon: {fileID: 21300000, guid: 2798e9d9567534546b3f95ab38ddd299, type: 3}
+  description: Use this pen to sign the document. you can only sing when you collect
+    a document.
+  uiPrefab: {fileID: 919132149155446097, guid: 9727add0c9ed4dc46abdfdc7305fe735, type: 3}
